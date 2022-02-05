@@ -1,7 +1,8 @@
-<img src="https://user-images.githubusercontent.com/69589624/132962368-25885f65-740e-4955-9b31-4a1cb899b660.png" alt="postman" width="175"/>
-
 # 4pop
 
+![Lines of code](https://img.shields.io/tokei/lines/github/ariescmZ/4pop?color=79C1FF&style=flat-square)
+
+utility mod made for 1.12.2 anarchy servers
 
 # instructions
 **download**
