@@ -66,7 +66,7 @@ A utility client that is specifically made for servers that allow the use of the
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_follow the instructions below carefully if you somehow fail to do this simple task you are skill issue._
 
 1. Download Forge installer for 1.12.2
 2. Download the mod from the releases tab
