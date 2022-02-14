@@ -106,4 +106,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [issues-shield]: https://img.shields.io/github/issues/ariescmZ/4pop.svg?style=for-the-badge
 [issues-url]: https://github.com/ariescmZ/4pop/issues
 [license-shield]: https://img.shields.io/github/license/ariescmZ/4pop.svg?style=for-the-badge
-[license-url]: https://github.com/ariescmZ/4pop/blob/main/LICENSE.md
+[license-url]: https://github.com/ariescmZ/4pop/blob/main/LICENSE
